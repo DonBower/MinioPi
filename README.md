@@ -34,4 +34,4 @@ Follow the instructions [here](/Pi/README.md)
 
 [raspberryPIOS]: /Images/PiOS.png
 
-[minIO]: /Images/minio.svg "Minio Server for ARM"
+[minIO]: /Images/minio.png "Minio Server for ARM"
